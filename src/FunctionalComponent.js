@@ -46,6 +46,7 @@ function FunctionalComponent(){
       return(
        <div>
           <h1>FunctionalComponent us page</h1>
+           
           <input type="text" value={val} onChange={test} />
           <button onClick={()=>alert(val)}>Click Me</button>
         </div>
