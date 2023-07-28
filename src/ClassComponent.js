@@ -57,6 +57,7 @@ render(){
        <div>
             <h1>ClassComponent us page</h1>
             <h2>{this.props.name}</h2>
+            <h3>akash</h3>
         </div>
     )
 }
